@@ -49,7 +49,6 @@
 [🇹🇷](translations/README.tr.md)
 [🇸🇪](translations/README.se.md)
 [:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
 [🇨🇿](translations/README.cs.md)
 [<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
